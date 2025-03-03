@@ -41,10 +41,10 @@ http://localhost:80
 Deployed server can be accessed it at:
 
 ```bash
-https://elastiq-frontend.onrender.com/
+http://34.123.138.124:80
 ```
 
-### 5. Deployment on Render
-The Elastiq frontend is deployed on Render.
+### 5. Deployment on GCP Compute Engine
+The Elastiq frontend is deployed on GCP Compute Engine.
 ```
 
