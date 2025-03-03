@@ -16,7 +16,7 @@ function App() {
     setLoading(true);
     try {
       // Make a POST request to the API endpoint
-      const res = await fetch('https://elastiq-backend.onrender.com/classify_review', {
+      const res = await fetch('http://35.226.217.146:8000/classify_review', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
